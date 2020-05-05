@@ -1,6 +1,10 @@
 # VulkanLearningNotes
 General learning experience notes about Vulkan
 
+## References
+* https://medium.com/@jlwu.will/android-vulkan-3-rendering-loop-9ed6a041b9cb
+* https://github.com/RMDarth/Chewman-Vulkan
+
 ## Configuration
 
 ### Devices
