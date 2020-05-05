@@ -13,6 +13,10 @@ A collection of useful links and notes about Vulkan.
 ### Descriptor sets
 * https://zhangdoa.com/posts/so-many-descriptors-in-vulkan
 
+## Rendering
+
+Relationship between VkImage, VkImageView, VkFramebuffer: https://stackoverflow.com/a/39559418/1960938
+
 ## Performance
 * https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/
 * http://kylehalladay.com/blog/tutorial/2017/11/27/Vulkan-Material-System.html
