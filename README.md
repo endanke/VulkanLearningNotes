@@ -15,6 +15,7 @@ A collection of useful links and notes about Vulkan.
 
 ### Render passes
 * https://developer.samsung.com/galaxy-gamedev/resources/articles/renderpasses.html
+* http://themaister.net/blog/2019/04/27/a-tour-of-granites-vulkan-backend-part-5/
 
 ## Rendering
 
